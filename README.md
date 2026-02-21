@@ -37,3 +37,4 @@ cp paper-reader.md ~/.claude/agents/
 ## 许可证
 
 MIT License
+
